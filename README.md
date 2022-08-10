@@ -8,9 +8,13 @@ Pour télécharger ce code, ils vous suffit de cliquer [ici](https://github.com/
 Addons : SkBee, SkQuery, Skript-yaml, SkUtilities
 
 ## 👀 **Comment utiliser correctement Mascots-SK ?**
-Vous devez utiliser cette fonction afin d'ouvrir le gui des mascottes<br />
+Vous devez utiliser cette fonction afin d'ouvrir le gui des mascottes.<br />
 ```
-Mascot_Gui(player, 1)
+MASCOTS_gui(player, 1, 0, 0)
+```
+Ou, vous pouvez utiliser cette commande.<br />
+```
+/mascot
 ```
 
 ## 🎓 **Vous avez besoin d'aide ?**
