@@ -5,7 +5,7 @@
 Pour télécharger ce code, ils vous suffit de cliquer [ici](https://github.com/MaxouLeKangou/Mascots-SK/releases/tag/v2.0.0) ! Vous pouvez ensuite mettre ce fichier dans votre dossier `plugins/Skript/scripts`.<br />
 Évidement, il vous faudra le plugin [Skript](https://github.com/SkriptLang/Skript/releases). Vous n'avez plus qu'à redémarrer votre serveur ou executer la commande `/sk reload Mascots/`.<br />
 
-Addons : SkBee, SkQuery, Skript-yaml, SkUtilities
+Addons : SkBee, SkQuery, Skript-yaml
 
 ## 👀 **Comment utiliser correctement Mascots-SK ?**
 Vous devez utiliser cette fonction afin d'ouvrir le gui des mascottes.<br />
